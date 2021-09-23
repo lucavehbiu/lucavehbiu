@@ -2,6 +2,9 @@
 
 I am an Econ Graduate with a bootcamp in Data Analytics & Machine Learning. Aspiring to become a Data Scientist I am currently working in a start up with some cool projects. The company advises casinos in the U.S about what games and machines to pick. Life is good!
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
 <!--
 **lucavehbiu/lucavehbiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
