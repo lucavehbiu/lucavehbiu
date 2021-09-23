@@ -4,6 +4,7 @@ I am an Econ Graduate with a bootcamp in Data Analytics & Machine Learning. Aspi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<PYTHON>/?username=<lucavehbiu>&theme=<THEME_NAME>" />
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vertica-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
@@ -19,7 +20,7 @@ I am an Econ Graduate with a bootcamp in Data Analytics & Machine Learning. Aspi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucavehbiu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/lucavehbiu/lucavehbiu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luca's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucavehbiu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luca's GitHub Stats" />
 </a>
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
