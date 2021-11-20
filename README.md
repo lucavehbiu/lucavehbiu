@@ -3,7 +3,7 @@
 I am an Econ Graduate with a bootcamp in Data Analytics & Machine Learning. Aspiring to become a Data Scientist I am currently working in a start up with some cool projects. The company advises casinos in the U.S about what games and machines to pick. Life is good!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<PYTHON>/?username=<lucavehbiu>&theme=<THEME_NAME>" />
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
