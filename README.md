@@ -2,6 +2,8 @@
 
 I am an Econ Graduate with a bootcamp in Data Analytics & Machine Learning. Aspiring to become a Data Scientist I am currently working in a start up with some cool projects. The company advises casinos in the U.S about what games and machines to pick. 
 
+I am using CodeCommit most of the time now, so my GitHub stats do not look that great!
+
 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
